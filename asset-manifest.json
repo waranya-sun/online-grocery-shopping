@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/online-grocery-shopping/static/css/main.d237ff0e.chunk.css",
+    "main.js": "/online-grocery-shopping/static/js/main.07000761.chunk.js",
+    "main.js.map": "/online-grocery-shopping/static/js/main.07000761.chunk.js.map",
+    "runtime-main.js": "/online-grocery-shopping/static/js/runtime-main.7daba872.js",
+    "runtime-main.js.map": "/online-grocery-shopping/static/js/runtime-main.7daba872.js.map",
+    "static/js/2.161998d6.chunk.js": "/online-grocery-shopping/static/js/2.161998d6.chunk.js",
+    "static/js/2.161998d6.chunk.js.map": "/online-grocery-shopping/static/js/2.161998d6.chunk.js.map",
+    "static/js/3.cac47ca2.chunk.js": "/online-grocery-shopping/static/js/3.cac47ca2.chunk.js",
+    "static/js/3.cac47ca2.chunk.js.map": "/online-grocery-shopping/static/js/3.cac47ca2.chunk.js.map",
+    "index.html": "/online-grocery-shopping/index.html",
+    "static/css/main.d237ff0e.chunk.css.map": "/online-grocery-shopping/static/css/main.d237ff0e.chunk.css.map",
+    "static/js/2.161998d6.chunk.js.LICENSE.txt": "/online-grocery-shopping/static/js/2.161998d6.chunk.js.LICENSE.txt",
+    "static/media/cheese.82b42841.png": "/online-grocery-shopping/static/media/cheese.82b42841.png",
+    "static/media/egg.1edc939b.png": "/online-grocery-shopping/static/media/egg.1edc939b.png",
+    "static/media/home_pic.735d1eb3.jpg": "/online-grocery-shopping/static/media/home_pic.735d1eb3.jpg",
+    "static/media/kiwi.4be0dbfa.png": "/online-grocery-shopping/static/media/kiwi.4be0dbfa.png",
+    "static/media/milk.9c2a8d66.png": "/online-grocery-shopping/static/media/milk.9c2a8d66.png",
+    "static/media/tomato.69350337.png": "/online-grocery-shopping/static/media/tomato.69350337.png",
+    "static/media/yogurt.504a894d.png": "/online-grocery-shopping/static/media/yogurt.504a894d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7daba872.js",
+    "static/js/2.161998d6.chunk.js",
+    "static/css/main.d237ff0e.chunk.css",
+    "static/js/main.07000761.chunk.js"
+  ]
+}
