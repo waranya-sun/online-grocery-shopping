@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/online-grocery-shopping/static/css/main.d237ff0e.chunk.css",
-    "main.js": "/online-grocery-shopping/static/js/main.07000761.chunk.js",
-    "main.js.map": "/online-grocery-shopping/static/js/main.07000761.chunk.js.map",
+    "main.js": "/online-grocery-shopping/static/js/main.07325d38.chunk.js",
+    "main.js.map": "/online-grocery-shopping/static/js/main.07325d38.chunk.js.map",
     "runtime-main.js": "/online-grocery-shopping/static/js/runtime-main.7daba872.js",
     "runtime-main.js.map": "/online-grocery-shopping/static/js/runtime-main.7daba872.js.map",
     "static/js/2.161998d6.chunk.js": "/online-grocery-shopping/static/js/2.161998d6.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.7daba872.js",
     "static/js/2.161998d6.chunk.js",
     "static/css/main.d237ff0e.chunk.css",
-    "static/js/main.07000761.chunk.js"
+    "static/js/main.07325d38.chunk.js"
   ]
 }
